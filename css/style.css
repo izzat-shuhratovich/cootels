@@ -406,6 +406,19 @@
   justify-content: center;
   padding: 0 36px;
 }
+.room-box-info-txt2-text {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.room-box-info-txt2-text svg {
+  background-color: #FF620A;
+  border-radius: 100px;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  padding: 2px;
+}
 .room-box-info-txt2 span {
   color: #424F7B;
 }
